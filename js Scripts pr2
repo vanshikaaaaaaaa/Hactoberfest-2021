@@ -1,0 +1,8 @@
+WAYS TO WRITE HELLO WORLD PROGRAM IN JAVASCRIPT:--
+
+// USING CONSOLE.LOG
+console.log('Hello World');
+ //USING ALERT 
+alert("Hello, World!");
+// USING DOCUMENT.WRITE
+document.write('Hello, World!');
